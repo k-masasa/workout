@@ -2,6 +2,8 @@
 
 熊谷匡史 (k-masasa) のトレーニング記録。Hevy が一次データソース、ここはその上に乗る集約 + 補足 + ナラティブ。
 
+🔗 **Hevy プロフィール**: https://hevy.com/user/msfmeee
+
 ---
 
 ## 体調
